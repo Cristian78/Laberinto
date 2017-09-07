@@ -17,8 +17,8 @@ void dibujarLaberinto(MazeGenerator *m);
 void delay(__useconds_t ms);
 
 // Constantes para modificar visualización
-#define ANCHO 8
-#define ALTO ANCHO
+#define ANCHO 10
+#define ALTO 10
 #define RADIO 8
 #define ANCHO_LINEA 3
 #define ESPERA 300
